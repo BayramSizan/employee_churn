@@ -1,7 +1,6 @@
 import pandas as pd
 import pickle
 import streamlit as st
-from xgboost import XGBClassifier
 from PIL import Image
 
 
